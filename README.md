@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeeshanahmad112
+- 👋 Hi, I’m @Zeeshan Ahmad
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on industrial projects
